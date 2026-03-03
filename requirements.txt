@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+fpdf2
+pandas
+python-dotenv
+num2words
