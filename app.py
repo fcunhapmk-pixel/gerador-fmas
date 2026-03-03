@@ -432,9 +432,8 @@ if 'df_processado' in st.session_state:
                     else: st.info("Sem AF selecionadas para protocolo.")
         else:
             st.info("Selecione ao menos uma linha na tabela para gerar os documentos.")
-        else:
-            st.info("Selecione ao menos uma linha na tabela para gerar os documentos.")
 
 # --- RODAPÉ ---
 st.divider()
 st.caption("Desenvolvido para Fundo Municipal de Assistência Social (FMAS) - Caraguatatuba/SP")
+
